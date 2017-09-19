@@ -1,0 +1,2 @@
+difolder cmd	-> npm install -> press enter
+		-> webpack -> press enter
